@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
   name: "Vicente",
-  role: "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)",
+  role: "Mid-level Functional Support Analyst (Public Health) — business rules, SQL, and process automation. I also build features and internal tools with Java/C#",
   funFact: "Passionate about motorsport since 2013",
 
   currentFocus: [
@@ -14,7 +14,6 @@ const aboutMe = {
   alsoUse: ["HTML5", "CSS3", "JavaScript", "Node.js", "Python"],
   contacts: {
     linkedin: "https://www.linkedin.com/in/vicentemartro/",
-    instagram: "https://www.instagram.com/vicentemartro",
   },
 };
 
