@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
   name: "Vicente",
-  role: "Mid-level Functional Support Analyst (Public Health) — business rules, SQL, and process automation. I also build features and internal tools with Java/C#",
+  role: "Mid-level Functional Support Analyst (Public Health) — business rules, SQL, and process automation.
   funFact: "Passionate about motorsport since 2013",
 
   currentFocus: [
