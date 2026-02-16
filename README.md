@@ -1,21 +1,23 @@
-```swift
-public struct AboutMe {
-    let name = "Vicente"
-    let role = "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)"
-    let funFact = "Passionate about motorsport since 2013"
+```javascript
+const aboutMe = {
+  name: "Vicente",
+  role: "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)",
+  funFact: "Passionate about motorsport since 2013",
 
-    let currentFocus = [
-        "New Feature Development",
-        "CRM & Financial Apps Maintenance",
-        "Internal User Support (Systems Requests)",
-    ]
+  currentFocus: [
+    "New Feature Development",
+    "CRM & Financial Apps Maintenance",
+    "Internal User Support (System Requests)",
+  ],
 
-    let preferredTechStack = ["Java", "C#", "SQL"]
-    let alsoUse = ["HTML5", "CSS3", "JS", "Node.JS", "Python"]
-    let contacts: [String: String] = [
-        "LinkedIn": "in/vicentemartro/"
-    ]
-}
+  preferredTechStack: ["Java", "C#", "SQL"],
+  alsoUse: ["HTML5", "CSS3", "JavaScript", "Node.js", "Python"],
+  contacts: {
+    linkedin: "https://www.linkedin.com/in/vicentemartro/",
+    instagram: "https://www.instagram.com/vicentemartro",
+  },
+};
+
 ```
 
 ## Hi there 👋 Welcome!
