@@ -9,7 +9,7 @@ public struct AboutMe {
     let currentFocus = ["Automation", "APIs", "Databases", "Business Rules", "Process Flows"]
 
     let preferredTechStack = ["Java", "C#", "Python", "PHP", "SQL"]
-    let alsoUse = ["JavaScript", "HTML5", "CSS3"]
+    let alsoUse = ["JavaScript", "TS", "Node.js", "HTML5", "CSS3"]
     let contacts: [String: String] = [
         "Email": "matheus.castro@pucpr.edu.br"
     ]
