@@ -10,6 +10,7 @@ public struct AboutMe {
 
     let preferredTechStack = ["Java", "C#", "SQL"]
     let alsoUse = ["HTML5","CSS3","JS","Node.JS","Python"]
+
     let contacts: [String: String] = [
         "Email": "matheus.castro@pucpr.edu.br"
         "LinkedIn": "in/vicentemartro/"
