@@ -1,17 +1,18 @@
 ```javascript
 const aboutMe = {
   name: "Vicente",
-  role: "Mid-level Functional Support Analyst (Public Health) — business rules, SQL, and process automation",
-  funFact: "Passionate about motorsport since 2013",
+  role: "Mid-Level Functional Support Analyst (Public Health). Also building internal tools/features in Java & C#",
+  funFact: "Motorsport fan since 2013",
 
   currentFocus: [
-    "New Feature Development",
+    "Feature Development",
     "CRM & Financial Apps Maintenance",
     "Internal User Support (System Requests)",
   ],
 
-  preferredTechStack: ["Java", "C#", "SQL"],
-  alsoUse: ["HTML5", "CSS3", "JavaScript", "Node.js", "Python"],
+  studying: ["Rust", "Go", "Kotlin"], // Trying to learn
+  favoriteIDEs: ["IntelliJ IDEA", "Rider", "Visual Studio"],
+
   contacts: {
     linkedin: "https://www.linkedin.com/in/vicentemartro/",
   },
