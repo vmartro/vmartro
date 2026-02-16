@@ -19,14 +19,11 @@ public struct AboutMe {
 
 ## Hi there 👋 Welcome!
 
-## Hi there 👋 Welcome!
-
 I’m Vicente Martro — a passionate software developer and tech enthusiast. With 3+ years of experience, I’ve worked on exciting projects and explored a wide range of technologies.
 
 **Currently, I support public-sector initiatives in Araucária (PR, Brazil)**, working alongside the Municipal Health Department and the Municipal Department of Science, Innovation & Technology to help deliver reliable digital services and improve operational workflows.
 
 Here you’ll find some of my projects, studies, and experiments — feel free to explore!
-
 
 > Stay Hungry, Stay Foolish (Steve Jobs)
 
