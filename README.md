@@ -1,16 +1,17 @@
-## Hi there 👋
+```swift
+public struct AboutMe {
+    let name = "Vicente"
+    let role = "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)"
+    let company = "IPM Sistemas (GovTech)"
 
-<!--
-**VicenteMartro/VicenteMartro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    let location = "Curitiba, PR"
+    let studying = "BSc in Information Systems (PUCPR)"
+    let currentFocus = ["Automation", "APIs", "Databases", "Business Rules", "Process Flows"]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    let preferredTechStack = ["Java", "C#", "Python", "PHP", "SQL"]
+    let alsoUse = ["JavaScript", "HTML5", "CSS3"]
+    let contacts: [String: String] = [
+        "Email": "matheus.castro@pucpr.edu.br"
+    ]
+}
+```
