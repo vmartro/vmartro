@@ -15,3 +15,9 @@ public struct AboutMe {
     ]
 }
 ```
+
+## Hi there 👋 Welcome!
+
+I’m Vicente Martro, a passionate software developer and tech enthusiast. With over 3 years of experience in the field, I’ve had the opportunity to work on several exciting projects and explore a wide range of technologies.
+
+> Stay Hungry, Stay Foolish (Steve Jobs)
