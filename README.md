@@ -4,21 +4,29 @@ public struct AboutMe {
     let role = "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)"
     let company = "IPM Sistemas (GovTech)"
 
+    let location = "Curitiba, PR"
+    let studying = "BSc in Information Systems (PUCPR)"
     let currentFocus = ["Automation", "APIs", "Databases", "Business Rules", "Process Flows"]
+
     let preferredTechStack = ["Java", "C#", "SQL"]
     let alsoUse = ["HTML5","CSS3","JS","Node.JS","Python"]
 
     let contacts: [String: String] = [
-        "Email": "matheus.castro@pucpr.edu.br"
         "LinkedIn": "in/vicentemartro/"
-        "Instagram": "https://www.instagram.com/vicentemartro"
     ]
 }
 ```
 
 ## Hi there 👋 Welcome!
 
-I’m Vicente Martro, a passionate software developer and tech enthusiast. With over 3 years of experience in the field, I’ve had the opportunity to work on several exciting projects and explore a wide range of technologies.
+## Hi there 👋 Welcome!
+
+I’m Vicente Martro — a passionate software developer and tech enthusiast. With 3+ years of experience, I’ve worked on exciting projects and explored a wide range of technologies.
+
+**Currently, I support public-sector initiatives in Araucária (PR, Brazil)**, working alongside the Municipal Health Department and the Municipal Department of Science, Innovation & Technology to help deliver reliable digital services and improve operational workflows.
+
+Here you’ll find some of my projects, studies, and experiments — feel free to explore!
+
 
 > Stay Hungry, Stay Foolish (Steve Jobs)
 
