@@ -8,8 +8,8 @@ public struct AboutMe {
     let studying = "BSc in Information Systems (PUCPR)"
     let currentFocus = ["Automation", "APIs", "Databases", "Business Rules", "Process Flows"]
 
-    let preferredTechStack = ["Java", "C#", "Python", "SQL"]
-    let alsoUse = ["JavaScript", "TS", "Node.js", "HTML5", "CSS3"]
+    let preferredTechStack = ["Java", "C#", "SQL"]
+    let alsoUse = ["HTML5","CSS3","JS","Node.JS","Python"]
     let contacts: [String: String] = [
         "Email": "matheus.castro@pucpr.edu.br"
     ]
