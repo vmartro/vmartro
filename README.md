@@ -2,15 +2,16 @@
 public struct AboutMe {
     let name = "Vicente"
     let role = "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)"
-    let company = "IPM Sistemas (GovTech)"
+    let funFact = "Passionate about motorsport since 2013"
 
-    let location = "Curitiba, PR"
-    let studying = "BSc in Information Systems (PUCPR)"
-    let currentFocus = ["Automation", "APIs", "Databases", "Business Rules", "Process Flows"]
+    let currentFocus = [
+        "New Feature Development",
+        "CRM & Financial Apps Maintenance",
+        "Internal User Support (Systems Requests)",
+    ]
 
     let preferredTechStack = ["Java", "C#", "SQL"]
     let alsoUse = ["HTML5", "CSS3", "JS", "Node.JS", "Python"]
-
     let contacts: [String: String] = [
         "LinkedIn": "in/vicentemartro/"
     ]
