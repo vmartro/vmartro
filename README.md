@@ -4,10 +4,7 @@ public struct AboutMe {
     let role = "Mid-level Functional Support Analyst — Public Health module (business rules & workflows)"
     let company = "IPM Sistemas (GovTech)"
 
-    let location = "Curitiba, PR"
-    let studying = "BSc in Information Systems (PUCPR)"
     let currentFocus = ["Automation", "APIs", "Databases", "Business Rules", "Process Flows"]
-
     let preferredTechStack = ["Java", "C#", "SQL"]
     let alsoUse = ["HTML5","CSS3","JS","Node.JS","Python"]
 
